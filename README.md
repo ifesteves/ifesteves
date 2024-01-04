@@ -16,7 +16,7 @@ Este repositório foi criado para documentar minha jornada de aprendizado e prá
 
 ## Origem e Localização
 
-Sou originalmente do Brasil, mas atualmente moro na Espanha. Esta experiência multicultural tem enriquecido minha jornada de aprendizado, proporcionando uma perspectiva global ao meu desenvolvimento profissional.
+Sou originalmente do Brasil, mas atualmente moro na Espanha. Esta experiência multicultural tem enriquecido minha jornada de aprendizado, proporcionando uma perspectiva global ao meu desenvolvimento pessoal e profissional.
 
 ## Contato
 
