@@ -14,6 +14,10 @@ Este repositório foi criado para documentar minha jornada de aprendizado e prá
 - [ ] Explorar técnicas de visualização de dados para contar histórias impactantes.
 - [ ] Participar de projetos práticos que demonstrem minhas habilidades recém-adquiridas.
 
+## Origem e Localização
+
+Sou originalmente do Brasil, mas atualmente moro na Espanha. Esta experiência multicultural tem enriquecido minha jornada de aprendizado, proporcionando uma perspectiva global ao meu desenvolvimento profissional.
+
 ## Contato
 
 Sinta-se à vontade para entrar em contato comigo por meio do ifesteves@hotmail.com para discussões, colaborações ou conselhos sobre minha jornada de transição de carreira. Estou aberto(a) a oportunidades e sempre ansioso(a) para aprender mais.
